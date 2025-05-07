@@ -1,0 +1,6 @@
+@CWLogDemo_HostAddress = http://localhost:5075
+
+GET {{CWLogDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
